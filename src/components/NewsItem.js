@@ -27,7 +27,7 @@ export class NewsItem extends Component {
                   : "unknown"}{" "}
               </small>{" "}
             </p>
-            <span class="badge rounded-pill bg-primary my-2">{source}</span>{" "}
+            <span className="badge rounded-pill bg-primary my-2">{source}</span>{" "}
             <br />
             <a
               href={newsUrl}
