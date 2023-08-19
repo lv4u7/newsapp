@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "161385360554578",
+      "title": "Bayern consider fourth Kane bid, Neymar linked with Chelsea, Liverpool bid 'embarrassing'",
+      "description": "talkSPORT.com brings you all the latest football news, insight and transfer gossip. Check out the headline stories and follow our live blog below for regular updates throughout the day. Headlines: …",
+      "url": "https://talksport.com/football/1486182/football-news-live-harry-kane-tottenham-chelsea-liverpool/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/OQ-TALKSPORT-BLOG-8TH-AUG.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-08-08T08:07:27Z",
+      "content": "Neymar has told Paris St Germain he wants to leave the club, according to reports in France.\r\nThe club did not comment on the matter when approached by the PA news agency, but it is understood that t… [+988 chars]"
+    },
+    {
+      "source": {
+        "id": "four-four-two",
+        "name": "FourFourTwo"
+      },
+      "author": "Mark White",
+      "title": "Tottenham striker Harry Kane to sign lifetime boot deal with Skechers",
+      "description": "Tottenham star Harry Kane will become Skechers' first-ever elite footballer, following a switch from Nike",
+      "url": "https://www.fourfourtwo.com/news/tottenham-striker-harry-kane-to-sign-lifetime-boot-deal-with-skechers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VKysmP6SxrQ2LFhbe3SKE8-1200-80.jpg",
+      "publishedAt": "2023-08-07T18:00:00Z",
+      "content": "Tottenham and England star Harry Kane has signed a groundbreaking Skechers deal, to become the face of the brand's very first elite football boots.\r\nThe American company have never manufactured high-… [+2970 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "College football rankings: Joel Klatt's preseason top 25",
+      "description": "Joel Klatt unveils his preseason top 25 rankings for the upcoming college football season. See which teams made the cut.",
+      "url": "http://www.foxsports.com/stories/college-football/college-football-rankings-joel-klatts-preseason-top-25",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/08.06.23_Joel-Klatt-Top-25_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2023-08-07T14:48:14Z",
+      "content": "The Georgia Bulldogs\r\n are looking to make history heading into the 2023 college football\r\n season as Kirby Smart's group has its eyes set on becoming the first program to win three national champion… [+26633 chars]"
+    },
+    {
+      "source": {
+        "id": "le-monde",
+        "name": "Le Monde"
+      },
+      "author": "Le Monde",
+      "title": "Comment les femmes ont-elles obtenu leur propre Coupe du monde de football ? Comprendre en trois minutes",
+      "description": "VIDÉO – La FIFA a organisé la première Coupe du monde féminine en 1991, soixante et un ans après celle des hommes. Avant cela, les footballeuses du monde entier n’avaient pas d’autre choix que de s’affronter lors de compétitions « pirates ».",
+      "url": "https://www.lemonde.fr/comprendre-en-3-minutes/article/2023/08/02/comment-les-femmes-ont-elles-obtenu-leur-propre-coupe-du-monde-de-football-comprendre-en-trois-minutes_6184166_6176282.html",
+      "urlToImage": "https://img.lemde.fr/2023/07/31/0/0/5616/3744/1440/960/60/0/4da8715_1690796565576-000-arp2694337.jpg",
+      "publishedAt": "2023-08-02T04:30:03Z",
+      "content": "Le 16 novembre 1991 à Guangzhou, en Chine, la Norvégienne Tone Haugen donne le coup denvoi de la première Coupe du monde féminine de football. Son geste est symbolique : il met fin à vingt ans de lut… [+995 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
